@@ -1,0 +1,55 @@
+body {background-image: url (../ img / fondo2.png); repetición de fondo: sin repetición; tamaño de fondo: cubierta;
+
+}
+
+#contenedor {ancho: 1000px; altura: auto; margen: auto; posición: relativa;
+
+}
+
+encabezado {ancho: 1000px; altura: 300 px; }
+
+nav {ancho: 985px; altura: 40px; fondo: # F0B429; borde: sólido; color del borde: # F0B429; radio de borde superior derecho: 0; border-top-left-radius-radius: 0;
+
+}
+
+ul {margen: auto; relleno superior: 4px;
+
+}
+
+li {float: izquierda; list-style-type: ninguno; acolchado: 2px; margen: 4px;
+
+}
+
+una {decoración de texto: ninguna; tamaño de fuente: 22px; color: # 005883; margen izquierdo: 60 px;
+
+}
+
+sección {ancho: 985px; imagen de fondo: url (../ img / fondo3.jpg); altura: 600 px; repetición de fondo: sin repetición; tamaño de fondo: cubierta; radio de borde superior derecho: 0; radio de borde superior izquierdo: 0;
+
+}
+
+h2 {font-family: arial; color: rgba (05,05,255,05); margen izquierdo: 20 px; tamaño de fuente: 30px; alineación de texto: derecha; margen derecho: 20px;
+
+}
+
+artículo {font-size: 15px; font-weight: más audaz; altura de línea: 24 px; alinear texto: izquierda; margen izquierdo: 25 px; margen derecho: 400 px; color blanco; desbordamiento: auto;
+
+}
+
+p {altura: 420 px;
+
+}
+
+iframe {margin-top: 25px; margen izquierdo: 13px; margen derecho: 700 px; }
+
+pie de página {ancho: 985px; altura: 100 px; fondo: # 005883; flotador izquierdo; margen superior: 20 px; radio de borde: 20px; radio de borde superior derecho: 0; radio de borde superior izquierdo: 0; margen inferior: 20px
+
+}
+
+h3 {font-family: arial; color blanco; margen izquierdo: 19px; tamaño de fuente: 22px; alineación de texto: derecha; margen derecho: 30px;
+
+}
+
+.Negrita {color: rgba (255,255,255,255); peso de fuente: negrita;
+
+}

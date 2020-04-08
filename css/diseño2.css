@@ -1,0 +1,92 @@
+#contenedor {
+
+ancho: 1000px; altura: auto; margen: auto; posición: relativa;
+
+}
+
+cuerpo {
+
+background-image: url(../img/fondo2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h2 {
+
+font-family: arial;
+color: rgba (05,05,255,05); margen izquierdo: 22px; tamaño de fuente: 41px; alineación de texto: derecha; margen derecho: 30px; }
+
+h3 {font-family: arial; color blanco; margen izquierdo: 17px; tamaño de fuente: 21px; alineación de texto: derecha; margen derecho: 30px; }
+
+encabezado {
+
+width: 1000px;
+height: 300px;
+}
+
+nav {
+
+width: 985px;
+height: 40px;
+background: #F0B429;
+border: solid;
+border-color:#F0B429;
+
+border-top-right-radius: 0;
+border-top-left-radius-radius: 0;
+}
+
+img {margin-top: 2px;
+
+margin-right: 400px;
+}
+
+#secu {margin-top: 2px; margen izquierdo: 61 px;
+
+}
+
+iframe {margin-top: -240px; margen izquierdo: 613 px; margen derecho: 700 px; }
+
+ul {
+
+margin:auto;
+padding-top: 4px;
+}
+
+li {
+
+float: left;
+list-style-type: none;
+padding: 2px;
+margin: 4px;
+}
+
+una{
+
+text-decoration: none;
+font-size: 20px;
+color:#005883;
+margin-left: 60px;
+}
+
+sección{
+
+width:985px;
+background-image: url(../img/fondo3.jpg);
+height: 600px;
+background-repeat: no-repeat;
+background-size: cover;
+
+border-top-right-radius: 0;
+border-top-left-radius-radius: 0;
+}
+
+pie de página {ancho: 985px; altura: 100 px; fondo: # 005883; flotador izquierdo; margen superior: 20 px; radio de borde: 20px; radio de borde superior derecho: 0; radio de borde superior izquierdo: 0; margen inferior: 20px}
+
+p {altura: 450 px;
+
+}
+
+.Negrita {color: rgba (255,255,255,255); peso de fuente: negrita;
+
+}
